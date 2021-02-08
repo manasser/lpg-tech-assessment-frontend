@@ -25,6 +25,8 @@ export default function Products(props) {
                     (!error ?
                         [
                             <div className = "productsContainer">
+                                <h1> The below table represents the Products data. Click on the 'Name' or 'Category'
+                                    buttons to sort by Name or Category respectively.</h1>
                                 <DisplayTable products={data} />
                             </div>
                         ]
