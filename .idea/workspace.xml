@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86090122-88e8-4df5-9051-dce5248d48f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Display/DisplayForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Display/_display-form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputForm/InputForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InputForm/_input-form.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Display/_display-table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Display/_display-table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/Products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Products/_products.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Products/_products.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Display/DisplayForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Display/DisplayForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Display/DisplayTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Display/DisplayTable.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

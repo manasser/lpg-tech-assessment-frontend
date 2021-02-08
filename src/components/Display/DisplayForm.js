@@ -28,6 +28,8 @@ class DisplayForm extends Component {
                 the category you are inputting is one of the available ones.</h1>
                 {/* TODO: retrieve the list of categories from a separate API call */}
                 <h1>These are: Kitchen, Power Tools, Furniture, Electric, Washroom, Textiles, Misc.</h1>
+
+                {/* TODO: create validation so that each field is required and the category name is one of those listed */}
                 <form>
                     <input className = "input"
                         name="name"

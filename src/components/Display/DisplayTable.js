@@ -1,7 +1,7 @@
 import React from 'react';
 
 const useSortableData = (items, config = null) => {
-    /* sorted code copied form: https://www.smashingmagazine.com/2020/03/sortable-tables-react/ */
+    /* source: https://www.smashingmagazine.com/2020/03/sortable-tables-react/ */
 
     const [sortConfig, setSortConfig] = React.useState(config);
 
